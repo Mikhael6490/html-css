@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+  @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body{
+    background-color: rgb(26, 24, 24);
+}
+  h1{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size:3em;
+    letter-spacing: 5px;
+    background-color: rgb(75, 3, 3);
+    color: white;
+    margin:30px 70px 00px 70px;
+   box-shadow: 1px 1px 10px #8a0404;
+
+}
+nav{
+    background-color: #8a0404;
+    margin:00px 70px 00px 70px;
+    box-shadow: 1px 1px 10px #8a0404;
+    
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(240, 207, 226);
+    margin-right: 3em;
+    margin-left: 7em;
+}
+
+main{
+    background-color: #641515;
+   border-radius: 5PX;
+   margin:30px 70px 00px 70px;
+   padding: 1em;
+   box-shadow: 1px 1px 10px #8a0404;
+}
+
+h2{
+    color: #ffffff;
+
+}
+
+p{
+    color: #ffffff;
+    text-indent: 1em; 
+}
+aside{
+    color:#ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+}
+
+footer{
+    background-color: black;
+    margin:30px 70px 00px 70px;
+   box-shadow: 1px 1px 10px #8a0404;
+   padding: 20px
+}
+#roda{
+    margin-top: 10px;
+
+}
+.links{
+    margin-right: 3em;
+    margin-left: auto;
+}
+
+img{
+    background-color: rgba(0, 255, 255, 0);
+    margin:00px 00px 00px 100px
+}
+.pro{
+    font-size: 2em;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 5px;
+}
+
